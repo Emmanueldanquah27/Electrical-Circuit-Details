@@ -6,6 +6,7 @@ WORKSHOP PROJECT 1: EXTENSION BOARD
 Student: RANSFORD KOFI ANIM
 Index No.: SRI.41.006.043.24
 Programme: Electrical and Electronic Engineering
+Year: 2B
 
 OVERVIEW & OBJECTIVES
 The project studies an extension board that distributes mains power to multiple outlets and provides USB charging and voltage monitoring. Objectives: identify components, explain their functions and operation, and understand safe inspection and testing.
