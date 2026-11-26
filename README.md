@@ -1,7 +1,7 @@
 # Electrical-Circuit-Details
 
 # Auto detect text files and perform LF normalization
-* text=auto
+
 WORKSHOP PROJECT 1: EXTENSION BOARD
 Student: RANSFORD KOFI ANIM
 Index No.: SRI.41.006.043.24
